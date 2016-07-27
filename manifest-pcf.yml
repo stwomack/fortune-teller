@@ -18,4 +18,4 @@ applications:
   - circuit-breaker-dashboard
 env:
   SPRING_PROFILES_ACTIVE: pcf
-  CF_TARGET: https://api.cf.deepsouth.com
+  CF_TARGET: https://api.pcf1.fe.gopivotal.com/
